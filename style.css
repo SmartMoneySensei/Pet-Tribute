@@ -1,0 +1,44 @@
+#pet{
+  height: 300px;
+}
+/* add code here to change the color and font family of your name/title */
+h1{
+ color: #FFFFFF;
+background: #333333;
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+color: #FFFFFF;
+background: #333333;
+}
+
+h2{
+  color: red;
+}
+
+h3{
+  color: Blue;
+}
+p{
+  font-size:18px;
+}
+
+
+/* Bonus: change the color of your list elements */
+.fact {
+  color: #dce006;
+  font-size: 23px;
+  background: black;
+}
+
+li {
+  color: black;
+  font-size: 20px;
+  background: orange
+}
+
+button{
+  color: rgb(255, 255, 255); font-size: 18px; line-height: 18px; padding: 9px; border-radius: 24px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(120, 215, 25) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+button:hover {
+background: #6721e8; }
+button:active {
+background: #f92e1f; }
+}
